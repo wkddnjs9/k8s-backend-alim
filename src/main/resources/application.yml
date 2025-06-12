@@ -1,6 +1,7 @@
 spring:
   application:
     name: k8s-backend-alim
+
   kafka:
     listener:
       ack-mode: manual_immediate

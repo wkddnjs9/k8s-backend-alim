@@ -3,4 +3,4 @@ server:
 
 spring:
   kafka:
-    bootstrap-servers: k8s-external-user-kafka-service:9092
+    bootstrap-servers: k8s-external-kafka-service:9092
